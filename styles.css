@@ -6,9 +6,11 @@
 
 .outerBox {
   background: #4d2d06;
-  margin-left: 350px;
-  margin-right: 350px;
+  min-width: 300px;
+  max-width: 400px;
   margin-top: 10px;
+  margin: 0 auto;
+  text-align: center;
 }
 body {
   font-family: Georgia, Times, serif;
